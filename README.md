@@ -28,3 +28,24 @@ key) or dodging (using &#8595; or `shift` key).
 <p align="center">
     <img src="./images/t-rex/end.png">
 </p>
+
+### Snake
+
+> A normal game of snake eating apples
+
+In this game, player controls a snake to find and eat apples using arrow keys
+&#8592;, &#8593;, &#8594;, &#8595; to move left, up, right, down. The more
+apples the snake eats, the longer the snake becomes. The game ends when the snake
+hits the border or eat its tail.
+
+<p align="center">
+    <img src="./images/snake/start.png">
+</p>
+
+<p align="center">
+    <img src="./images/snake/play.png">
+</p>
+
+<p align="center">
+    <img src="./images/snake/end.png">
+</p>
