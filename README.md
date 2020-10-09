@@ -19,7 +19,7 @@ key) or dodging (using &#8595; or `shift` key).
 
 <p align="center">
     <img src="./images/t-rex/start.png">
-    Start Screen
+    <h4>Start Screen</h4>
 </p>
 
 <p align="center">
