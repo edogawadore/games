@@ -5,7 +5,7 @@ This repository is for simple 2D games.
 ## How to contribute
 
 - Fork this repository
-- Create an issue and link it to the PR
+- Create an issue, push your code and create a pull request
 - Add screenshot of your game to `images` directory and update game info in `README.md`
 
 ## Game contributed
