@@ -19,14 +19,12 @@ key) or dodging (using &#8595; or `shift` key).
 
 <p align="center">
     <img src="./images/t-rex/start.png">
-    <h4 align="center">Start Screen</h4>
 </p>
 
 <p align="center">
     <img src="./images/t-rex/play.png">
-    Gameplay
+</p>
 
 <p align="center">
     <img src="./images/t-rex/end.png">
-    Game Over
 </p>
