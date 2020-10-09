@@ -8,7 +8,12 @@ This repository is for simple 2D games.
 - Create an issue, push your code and create a pull request
 - Add screenshot of your game to `images` directory and update game info in `README.md`
 
-## Game contributed
+## Game list
+
+- [Box Run](https://github.com/edogawadore/games#box-run)
+- [Snake](https://github.com/edogawadore/games#snake)
+
+## Games
 
 ### Box Run
 
