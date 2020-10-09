@@ -23,7 +23,7 @@ key) or dodging (using &#8595; or `shift` key).
 
 ### Snake
 
-> A normal game of snake eating apples
+> A Normal Game of Snake
 
 In this game, player controls a snake to find and eat apples using arrow keys
 &#8592;, &#8593;, &#8594;, &#8595; to move left, up, right, down. The more
